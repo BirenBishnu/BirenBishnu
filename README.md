@@ -1,5 +1,5 @@
 ## Hola, mi soy Biren Bishnu 👋
-### and I am a noob coder.
+### and i am a noob coder.
 
 - 🔭 I’m currently working on Personal Portfolio.
 - 🌱 I’m currently learning ReactJS.
