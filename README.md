@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours listening songs everyday.
 
-<img src="https://github-readme-stats.vercel.app/api?username=birenbishnu&&show_icons=true&title_color=3cdfff&icon_color=45b6fe&text_color=daf7dc&bg_color=0c2026">
+<img src="https://github-readme-stats.vercel.app/api?username=birenbishnu&&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C">
