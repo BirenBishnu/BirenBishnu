@@ -10,4 +10,4 @@
 - 😄 Pronouns: _He writes software application, cooks food, exercises, takes pictures, grows things_.
 - ⚡ Fun fact: I love to learn new things, and I embrace my inner nerd. 🤓
 
-<img src="https://github-readme-stats.vercel.app/api?username=birenbishnu&&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C">
+<img src="https://github-readme-stats.vercel.app/api?username=birenbishnu&&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" style="border-radius: 25px;">
